@@ -137,7 +137,7 @@ you though incorporating the provider into your project.
 
 If there isn't a provider yet, you'll have to roll your own.  You'll still get the benefit of 
 working with a standard, so your consumers will have a well documented spec to work with.  Feel free
-to contribute any platform-specific providers you come up with! Test
+to contribute any platform-specific providers you come up with! new text
 
 ## Further Reading
 
