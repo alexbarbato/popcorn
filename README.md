@@ -130,14 +130,14 @@ Asp.Net Core and EntityFramework Core, but many more platforms are on the roadma
 ## How can I use it in my project?
 
 First you need to figure out if you're working with a platform that has a provider implemented in 
-the popcorn project. (Probably check out [Documentation](docs/Documentation.md)).
+the popcorn project. (Probably check out [Documentation](docs/Documentation.md)). asdfasfsafsafasdf
 
 If there's a provider already in the project, great!  The platform-specific documentation will walk
 you though incorporating the provider into your project.
 
 If there isn't a provider yet, you'll have to roll your own.  You'll still get the benefit of 
 working with a standard, so your consumers will have a well documented spec to work with.  Feel free
-to contribute any platform-specific providers you come up with!
+to contribute any platform-specific providers you come up with! new text
 
 ## Further Reading
 
